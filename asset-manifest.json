@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hlmercatone/static/css/main.e6c13ad2.css",
+    "main.js": "/hlmercatone/static/js/main.67024b3d.js",
+    "static/js/453.71e21010.chunk.js": "/hlmercatone/static/js/453.71e21010.chunk.js",
+    "index.html": "/hlmercatone/index.html",
+    "main.e6c13ad2.css.map": "/hlmercatone/static/css/main.e6c13ad2.css.map",
+    "main.67024b3d.js.map": "/hlmercatone/static/js/main.67024b3d.js.map",
+    "453.71e21010.chunk.js.map": "/hlmercatone/static/js/453.71e21010.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.67024b3d.js"
+  ]
+}
